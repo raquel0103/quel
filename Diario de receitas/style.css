@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho{
+    background-color: #DD3BD7;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+}
+.cabeçalho-item{
+    display: inline-block;
+    padding: 0 25px;
+}
+.cabeçalho-imagem{
+    width: 8%;
+}
+.diario-imagem{
+    width: 8%;
+}
+.diario{
+    background-image: linear-gradient(#F1163E, #F1163E);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 100px 0;
+}
+.diario-conteudo{
+    width: 30%;
+}
+.diario-titulo{
+    padding: 25px 0;
+}
